@@ -47,7 +47,7 @@ EduNotify AI automates the complete notification lifecycle by:
 ## 🏗️ Workflow Architecture
 
 <p align="center">
-  <img src="assets/architecture-diagram.png" alt="EduNotify AI Workflow Architecture" width="700"/>
+  <img src="assets/architecture-diagram.png" alt="EduNotify AI Workflow Architecture" width="500"/>
 </p>
 
 ---
